@@ -1,0 +1,9 @@
+{
+  "name": "glinweb-css",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/glinweb-css/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project glinweb-css --web",
+  "targets": {}
+}
